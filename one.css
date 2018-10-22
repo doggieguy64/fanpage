@@ -1,6 +1,21 @@
 .uno {
-    color:blue;
+    color:#FDB927;
 }
 html{
-    background-image: "";
+    background-color:#006BB6;
+}
+.navbar{
+    display:flex;
+    justify-content:space-around;
+}
+.header{
+    display:flex;
+    justify-content:center;
+}
+h3{
+    border:solid #FDB927;
+}
+.images{
+    display:flex;
+    justify-content:center;
 }
